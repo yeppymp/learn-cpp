@@ -1,2 +1,2 @@
-# learn-cpp
-Learning CPP in College
+# Learn C++
+Learning C++ in College
